@@ -1,0 +1,52 @@
+
+
+CASCADIA CONSUMER DATA PRIVACY ACT (CCDPA)
+Statute Summary — Cas. Rev. Stat. §§ 19.400–19.475 [fictitious]
+Effective Date: January 1, 2025
+
+SECTION 1 — PURPOSE AND SCOPE
+The CCDPA establishes consumer rights over personal data collected by businesses
+operating in the State of Cascadia. It applies to any entity that (a) controls or
+processes personal data of 25,000 or more Cascadia residents annually, or (b)
+derives more than 40% of gross revenue from the sale of personal data.
+
+SECTION 2 — CONSUMER RIGHTS (§ 19.410)
+Consumers have the right to:
+  (a) Access — obtain confirmation of whether their personal data is processed
+      and receive a copy of that data within 30 days of a verified request.
+  (b) Deletion — request deletion of personal data, subject to statutory
+      exceptions (e.g., data required for legal compliance or fraud prevention).
+  (c) Correction — request correction of inaccurate personal data.
+  (d) Opt-Out — opt out of the sale of personal data and of targeted advertising.
+  (e) Portability — receive personal data in a portable, machine-readable format.
+
+SECTION 3 — BUSINESS OBLIGATIONS (§ 19.425)
+  3.1 Businesses must provide a clear privacy notice describing categories of
+      data collected, purposes of processing, and third parties with whom data
+      is shared.
+  3.2 Businesses must implement "reasonable administrative, technical, and
+      physical safeguards" appropriate to the volume and sensitivity of data
+      processed.
+  3.3 Businesses must honor consumer requests under Section 2 within 45 days,
+      extendable once by 45 additional days with notice to the consumer.
+  3.4 Businesses may not discriminate against consumers for exercising rights
+      under this Act (e.g., denying service or charging a different price).
+
+SECTION 4 — SENSITIVE DATA (§ 19.440)
+Processing of "sensitive data" — including precise geolocation, biometric data,
+health data, and data revealing racial or ethnic origin — requires opt-in
+consent rather than opt-out.
+
+SECTION 5 — ENFORCEMENT (§ 19.460)
+  5.1 The Cascadia Attorney General may bring enforcement actions with civil
+      penalties of up to $7,500 per violation.
+  5.2 A 30-day cure period applies for first-time violations, after which
+      penalties may be assessed without further notice.
+  5.3 The Act does not create a private right of action, except for violations
+      arising from a data breach caused by failure to implement reasonable
+      security safeguards under Section 3.2, per § 19.462.
+
+SECTION 6 — EXEMPTIONS (§ 19.470)
+Exempt entities include: nonprofit organizations, government agencies, and data
+already regulated under the Cascadia Health Records Confidentiality Act, to the
+extent of that overlap.

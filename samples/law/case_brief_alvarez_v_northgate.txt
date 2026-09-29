@@ -1,0 +1,51 @@
+
+CASE BRIEF
+
+Case: Alvarez v. Northgate Logistics Corp.
+Citation: 214 Cas.App.3d 552 (Cascadia Court of Appeals, 2023) [fictitious]
+Court: Cascadia Court of Appeals, Third Division
+
+FACTS
+Maria Alvarez was employed as a warehouse coordinator at a Northgate Logistics
+distribution center. In June 2022, Alvarez reported to her supervisor that a
+forklift used on the night shift had a malfunctioning brake sensor. Two weeks
+later, Alvarez was terminated for "restructuring," despite the company having
+hired a replacement coordinator within the same month. Alvarez filed suit alleging
+retaliatory termination in violation of the Cascadia Whistleblower Protection Act
+("CWPA"), Cas. Rev. Stat. § 49.860.
+
+PROCEDURAL HISTORY
+The trial court granted summary judgment for Northgate Logistics, holding that
+Alvarez failed to establish a causal connection between her safety report and
+her termination. Alvarez appealed.
+
+ISSUE
+Whether temporal proximity between a protected safety disclosure and an adverse
+employment action, combined with evidence of a pretextual reason for termination,
+is sufficient to survive summary judgment under CWPA § 49.860.
+
+HOLDING
+Reversed and remanded. The Court of Appeals held that a two-week gap between a
+protected disclosure and termination, paired with evidence that the stated reason
+("restructuring") was contradicted by the immediate hiring of a replacement,
+creates a genuine issue of material fact regarding retaliatory motive.
+
+REASONING
+The court applied the three-part burden-shifting framework: (1) Alvarez engaged
+in protected activity by reporting a safety hazard; (2) Northgate took an adverse
+action; and (3) a reasonable jury could infer causation from timing and pretext
+evidence. The court emphasized that "close temporal proximity, standing alone,
+may be sufficient at the prima facie stage, but pretext evidence materially
+strengthens the inference of retaliatory intent." The court distinguished this
+case from Doremus v. Cascadia Foods, 198 Cas.App.2d 41 (2019) [fictitious], where
+a six-month gap and a documented pattern of poor performance reviews defeated
+the retaliation claim.
+
+DISPOSITION
+Summary judgment reversed. Case remanded to the trial court for further
+proceedings on the merits of the retaliation claim.
+
+KEY TAKEAWAY
+Employers relying on a "restructuring" defense should expect close scrutiny when
+a replacement hire follows shortly after a termination that closely trails a
+protected disclosure.

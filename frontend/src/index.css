@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light dark; }
+
+html, body, #root { height: 100%; }
+
+body {
+  @apply bg-ink-50 text-ink-900 antialiased;
+}
+.dark body { @apply bg-ink-950 text-ink-100; }
+
+/* Thin, unobtrusive scrollbars — the UI has a lot of scrollable panes. */
+* { scrollbar-width: thin; scrollbar-color: rgb(184 189 197 / .6) transparent; }
+*::-webkit-scrollbar { width: 9px; height: 9px; }
+*::-webkit-scrollbar-thumb {
+  background: rgb(184 189 197 / .5); border-radius: 9999px;
+  border: 3px solid transparent; background-clip: content-box;
+}
+.dark *::-webkit-scrollbar-thumb { background: rgb(70 76 86 / .8); background-clip: content-box; }
+
+@layer components {
+  .surface {
+    @apply bg-white border border-ink-200 rounded-xl shadow-card;
+  }
+  .dark .surface { @apply bg-ink-900 border-ink-800; }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-3 py-2
+           text-sm font-medium transition-colors disabled:opacity-40
+           disabled:cursor-not-allowed select-none;
+  }
+  .btn-primary { @apply btn bg-accent-600 text-white hover:bg-accent-700; }
+  .btn-ghost {
+    @apply btn border border-ink-200 text-ink-700 hover:bg-ink-100;
+  }
+  .dark .btn-ghost { @apply border-ink-700 text-ink-300 hover:bg-ink-800; }
+
+  .label { @apply text-[11px] font-semibold uppercase tracking-wider text-ink-400; }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-md px-2 py-0.5
+           text-[11px] font-medium border;
+  }
+  .input {
+    @apply w-full rounded-lg border border-ink-200 bg-white px-3 py-2 text-sm
+           text-ink-900 placeholder-ink-400 outline-none
+           focus:border-accent-500 focus:ring-2 focus:ring-accent-500/20;
+  }
+  .dark .input { @apply bg-ink-950 border-ink-700 text-ink-100; }
+}

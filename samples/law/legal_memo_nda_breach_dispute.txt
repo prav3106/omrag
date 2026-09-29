@@ -1,0 +1,57 @@
+
+INTERNAL LEGAL MEMORANDUM
+
+TO:      General Counsel, Solace Robotics Inc.
+FROM:    Litigation Associate, Fictional & Byrne LLP
+DATE:    August 14, 2025
+RE:      Potential Breach of Non-Disclosure Agreement — Vendor: Ferrow Dynamics
+
+I. QUESTION PRESENTED
+Does Ferrow Dynamics' disclosure of Solace Robotics' proprietary gripper-control
+firmware specifications to a third-party integrator constitute a breach of the
+Mutual Non-Disclosure Agreement ("NDA") executed on November 1, 2024?
+
+II. BRIEF ANSWER
+Likely yes. The NDA's confidentiality clause (Section 3) broadly defines
+"Confidential Information" to include technical specifications, and the carve-out
+for "independently developed" information (Section 3.4) does not appear to apply,
+since Ferrow's internal emails reference direct use of Solace's shared documents.
+
+III. FACTS
+Solace Robotics disclosed firmware control specifications to Ferrow Dynamics under
+the NDA to evaluate a potential joint integration project. The project did not
+proceed. In July 2025, Solace discovered that Ferrow had shared substantially
+similar specifications with Quantis Automation, a competitor, while pitching a
+similar integration service. Internal Ferrow emails obtained through a mutual
+contact reference "Solace's control-loop diagrams" as a basis for the Quantis
+proposal.
+
+IV. ANALYSIS
+A. Scope of Confidential Information (NDA § 3.1–3.2)
+The NDA defines Confidential Information to include "any technical, business, or
+financial information disclosed in written, oral, or electronic form, including
+but not limited to specifications, schematics, and source code." The firmware
+control specifications fall squarely within this definition.
+
+B. Independent Development Exception (NDA § 3.4)
+Ferrow may argue the specifications shared with Quantis were independently
+developed. However, the referenced internal emails undercut this defense by
+explicitly citing Solace's diagrams as a working reference, which is strong
+evidence against independent development.
+
+C. Term and Survival (NDA § 6)
+The NDA's confidentiality obligations survive termination of the underlying
+business relationship for a period of 5 years from the disclosure date (through
+November 2029). The alleged disclosure in July 2025 falls within this window.
+
+D. Remedies (NDA § 8)
+Section 8.2 provides for injunctive relief "without the necessity of posting
+bond," in addition to monetary damages. Section 8.3 includes a prevailing-party
+attorneys' fees provision.
+
+V. RECOMMENDATION
+We recommend sending a cease-and-desist letter to Ferrow Dynamics within 10
+business days, followed by a formal demand for an accounting of all disclosures
+to Quantis Automation. If Ferrow does not provide a satisfactory response within
+15 days, we recommend proceeding with a motion for preliminary injunction given
+the ongoing competitive harm.

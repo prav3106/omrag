@@ -1,0 +1,26 @@
+# --- API layer -------------------------------------------------------------
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.4
+python-dotenv==1.0.1
+httpx==0.28.1
+
+# --- ingestion -------------------------------------------------------------
+PyMuPDF==1.25.1            # PDF text + embedded image extraction
+python-docx==1.1.2         # DOCX paragraphs and tables
+opencv-python-headless==4.10.0.84
+pytesseract==0.3.13        # requires the `tesseract` binary on PATH
+Pillow==11.0.0
+faster-whisper==1.1.0      # requires the `ffmpeg` binary on PATH
+
+# --- embeddings & reranking ------------------------------------------------
+sentence-transformers==3.3.1
+open-clip-torch==2.29.0
+torch>=2.9.0
+
+# --- vector store ----------------------------------------------------------
+qdrant-client==1.12.1
+
+# --- dev -------------------------------------------------------------------
+pytest==8.3.4

@@ -1,0 +1,12 @@
+# Qdrant is the only container. Everything else runs natively so that the
+# models can use Apple Silicon / local acceleration directly.
+services:
+  qdrant:
+    image: qdrant/qdrant:v1.12.4
+    container_name: omrag-qdrant
+    ports:
+      - "127.0.0.1:6333:6333"   # REST, bound to loopback only
+      - "127.0.0.1:6334:6334"   # gRPC
+    volumes:
+      - ./data/qdrant:/qdrant/storage
+    restart: unless-stopped
